@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "D:/projects/IoT/ESP2RSPFireBase/VS"
+		},
+		{
+			"name": "FirebaseSend",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FirebaseSend"
+	}
+}
